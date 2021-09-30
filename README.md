@@ -1,4 +1,7 @@
-[![Social banner for JacobRReed](https://github.com/JacobRReed/JacobRReed/raw/master/assets/nospoon.png)](https://github.com/JacobRReed)
+| [![Social banner for JacobRReed](https://github.com/JacobRReed/JacobRReed/raw/master/assets/nospoon.png)](https://github.com/JacobRReed)  |
+|---|
+| ![Jacob Reed's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobrreed&show_icons=true&theme=radical) |
+
 
 ## Who Am I?
  - Oracle Cloud Infrastructure -  Junior Developer (IC2) 💻
@@ -24,6 +27,7 @@
  - Motorcycles
 
 ## Programming Skills
+
  - Javascript/Typescript
    - React/Angular
    - Jest
@@ -52,3 +56,5 @@
 ## Team Skills
  - Agile
  - Code/UI Demonstrations
+
+
