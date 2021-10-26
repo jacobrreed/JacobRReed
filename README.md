@@ -19,7 +19,7 @@
  - Tattoos
    - Tattooing myself (don't worry I do it safely)
    - Getting tattoos (from people that don't suck like I do)
- - Rebuilding my gaming PC every so often for no reason other than to make my wallet sad
+ - Rebuilding my gaming PC every so often for no reason
  - Snowboarding
  - Lake activities
  - Motorcycles
