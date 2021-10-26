@@ -1,4 +1,3 @@
-| [![Social banner for JacobRReed](https://github.com/JacobRReed/JacobRReed/raw/master/assets/nospoon.png)](https://github.com/JacobRReed)  |
 |---|
 | ![Jacob Reed's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobrreed&show_icons=true&theme=radical) |
 
