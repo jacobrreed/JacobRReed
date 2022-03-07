@@ -10,16 +10,11 @@
 ### *because these are probably more interesting than the rest of the categories below*
  - Guitar / Percussion
  - Coding (when I'm not at work)
-   - Currently learning Rust
-   - Currently learning Neovim
-   - Currently learning to use a split keyboard (harder than it sounds)
- - Homelab (server rack)
- - Penetration Testing (HackTheBox)
- - Brewing Kombucha (hipster cliche tbh, however does taste delicious, and way cheaper to make yourself)
+ - Homelab
+ - Penetration Testing
+ - Brewing Kombucha
  - Tattoos
-   - Tattooing myself (don't worry I do it safely)
-   - Getting tattoos (from people that don't suck like I do)
- - Rebuilding my gaming PC every so often for no reason
+ - Rebuilding my gaming PC every so often (for no reason)
  - Snowboarding
  - Lake activities
  - Motorcycles
@@ -30,6 +25,7 @@
    - React/Angular
    - Jest
      - Webdriver IO
+   - NodeJS
  - Python
    - Selenium
  - Docker
@@ -37,9 +33,10 @@
  - C
  - C#
  - Java
- - Bash
+ - Android SDK (Java)
+ - Bash/ZSH
  - .NET Core APIs
- - VB. NET 🤮
+ - VB.NET
 
 ## Tech Skills
  - Microsoft SQL
@@ -48,11 +45,10 @@
  - Jira
  - Git (Github/Bitbucket)
  - Realm/Regional application deployments
- - VSCode & Vim (nvim)
- - Comfy in Windows, Mac, and Linux
+ - VSCode & Vim (NVIM)
+ - Comfy in Windows, Mac, and Linux (my preferred)
 
 ## Team Skills
  - Agile
+ - Kanban
  - Code/UI Demonstrations
-
-
