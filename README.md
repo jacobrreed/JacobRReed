@@ -4,7 +4,7 @@
 ## Who Am I?
  - Oracle Cloud Infrastructure -  Junior Developer (IC2) 💻
  - Former Army Helicopter Doctor 🚁 (15R)
- - New dad 👨‍🍼 as of Feb '21
+ - Girl dad (of 2)
 
 ## Hobbies
 ### *because these are probably more interesting than the rest of the categories below*
