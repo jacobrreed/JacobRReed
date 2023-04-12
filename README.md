@@ -55,7 +55,9 @@
  - Git (Github/Bitbucket)
  - Realm/Regional application and infrastructure deployments
    - Terraform
- - VSCode & Vim (NVIM)
+ - Networking concepts such as but not limited to DNS, DHCP, IPv4/IPv6, CIDR notation, Subnets and masks, etc.
+   - Networking Cisco course in progress
+ - VSCode & Vim (Neovim)
  - Comfy in Windows, Mac, and Linux (but prefer Linux the most, I use Arch btw)
 
 ## Team Skills
