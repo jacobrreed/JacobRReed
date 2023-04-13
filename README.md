@@ -1,4 +1,4 @@
-![Jacob Reed's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobrreed&show_icons=true&theme=radical)
+![Jacob Reed's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobrreed&show_icons=true&theme=dracula)
 
 ## Who Am I?
  - Oracle Cloud Infrastructure -  Junior Developer (IC2) 💻
