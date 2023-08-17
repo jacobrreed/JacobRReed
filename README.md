@@ -20,15 +20,14 @@
       - Go
       - Kubernetes
   - Penetration Testing
-   - TryHackMe
-   - HackTheBox
+     - TryHackMe
+     - HackTheBox
  - Guitar / Percussion
  - PC Gaming
  - Beginner level audiophile
  - Brewing Kombucha
  - Tattoos
  - Snowboarding
- - Lake activities
 
 ## Tech Skills
  - Javascript/Typescript
@@ -38,6 +37,8 @@
  - NodeJS
  - Python
    - Selenium
+ - Rust (entry level)
+ - Golang (entry level)
  - Docker
    - Docker Compose / Docker Swarm
  - C
