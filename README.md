@@ -19,7 +19,7 @@
       - Rust
       - Go
       - Kubernetes
-  - Penetration Testing
+ - Penetration Testing
      - TryHackMe
      - HackTheBox
  - Guitar / Percussion
