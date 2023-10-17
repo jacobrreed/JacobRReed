@@ -43,6 +43,7 @@
    - Docker Compose / Docker Swarm
  - C
  - C#
+ - Lua
  - Java
  - Android SDK (Java, no Kotlin)
  - Bash/ZSH
