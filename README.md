@@ -25,7 +25,7 @@
  - Guitar / Percussion
  - PC Gaming
  - Beginner level audiophile
- - Brewing Kombucha
+ - Brewing Kombucha, Sourdough, and Mead
  - Tattoos
  - Snowboarding
 
