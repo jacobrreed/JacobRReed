@@ -60,7 +60,7 @@
  - Networking concepts such as but not limited to DNS, DHCP, IPv4/IPv6, CIDR notation, Subnets and masks, etc.
    - Networking Cisco course in progress
  - VSCode & Vim (Neovim)
- - Comfy in Windows, Mac, and Linux (but prefer Linux the most, I use Arch btw)
+ - Comfy in Windows, Mac, and Linux (but prefer Linux the most, I use Arch btw, but also have experience with Debian based distros as well)
 
 ## Team Skills
  - Agile
