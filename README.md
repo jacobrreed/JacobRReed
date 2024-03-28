@@ -78,7 +78,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/jacobrreed/jacobrreed/output/snake.svg" alt="Snake animation" />
-
 ###
