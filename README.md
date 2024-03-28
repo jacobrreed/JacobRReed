@@ -123,6 +123,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jacobrreed/jacobrreed/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/jacobrreed/JacobRReed/master/snake.svg" alt="Snake animation" />
 
 ###
