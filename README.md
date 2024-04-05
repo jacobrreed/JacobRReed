@@ -10,8 +10,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jacobrreed&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&title_color=a48cf2&text_color=37f499&icon_color=04d1f9&border_color=a48cf2&bg_color=212337" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacobrreed&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&title_color=a48cf2&text_color=37f499&icon_color=04d1f9&border_color=a48cf2&bg_color=212337&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jacobrreed&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&title_color=a48cf2&text_color=37f499&icon_color=04d1f9&border_color=a48cf2&bg_color=212337" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jacobrreed&locale=en&layout=compact&card_width=320&langs_count=5&title_color=a48cf2&text_color=37f499&icon_color=04d1f9&border_color=a48cf2&bg_color=212337&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
