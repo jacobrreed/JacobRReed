@@ -115,14 +115,3 @@
   </a>
 </div>
 
-###
-
-<img align="right" height="150" src="https://jacobrreed.io/_next/static/media/lofi.fc961046.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jacobrreed/JacobRReed/master/snake.svg" alt="Snake animation" />
-
-###
