@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">I'm currently working on <a href="https://dogdb.io">DogDB.io</a> and <a href="https://github.com/eldritch-theme/eldritch">Eldritch</a> theme</p>
-<p align="left">I'm currently learning NextJS and Rust</p>
+<p align="left">I'm currently working on  <a href="https://github.com/eldritch-theme/eldritch">Eldritch</a> theme and a secret Godot game (tba)</p>
+<p align="left">I'm currently learning Rust, Go, and Godot</p>
 
 ###
 
