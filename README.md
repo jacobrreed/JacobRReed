@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">I'm currently working on  <a href="https://github.com/eldritch-theme/eldritch">Eldritch</a> theme and a secret Godot game (tba)</p>
-<p align="left">I'm currently learning Rust, Go, and Godot</p>
+<p align="left">I'm currently working on  <a href="https://github.com/eldritch-theme/eldritch">Eldritch</a></p>
+<p align="left">I'm currently learning Rust, Go, and 3D printing</p>
 
 ###
 
