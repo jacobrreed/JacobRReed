@@ -2,8 +2,11 @@
 
 ###
 
-<p align="left">I'm currently working on  <a href="https://github.com/eldritch-theme/eldritch">Eldritch</a></p>
-<p align="left">I'm currently learning Rust, Go, and 3D printing</p>
+<p align="left">Founder of <a href="https://github.com/eldritch-theme/eldritch">Eldritch</a></p>
+<p align="left">I'm currently learning:</p>
+<ul>
+  <li>Penetration testing</li>
+</ul>
 
 ###
 
