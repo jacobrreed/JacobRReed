@@ -3,9 +3,12 @@
 ###
 
 <p align="left">Founder of <a href="https://github.com/eldritch-theme/eldritch">Eldritch</a></p>
-<p align="left">I'm currently learning:</p>
+<p align="left">I'm currently  focusing on:</p>
 <ul>
-  <li>Penetration testing</li>
+  <li>Work (busy)</li>
+  <li>Godot</li>
+  <li>Permanently ricing Arch/Hyprland setup</li>
+  <li>Homelab</li>
 </ul>
 
 ###
